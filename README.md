@@ -9,13 +9,13 @@
 <br>
 <p align="left">
   <img src="https://github.com/TatevKaren/recurrent-neural-network-stock-price-predicition-case-study/blob/main/Google Stock Price Development.png?raw=true"
-  width="800" height="350">
+  width="600" height="250">
 </p>
 <br>
 
 <p align="left">
-  <img src="https://github.com/TatevKaren/recurrent-neural-network-stock-price-predicition-case-study/blob/main/data/GRU.png.png?raw=true"
-  width="800" height="350">
+  <img src="https://github.com/TatevKaren/recurrent-neural-network-stock-price-predicition-case-study/blob/main/data/GRU.png?raw=true"
+  width="600" height="250">
 </p>
 <br>
 
