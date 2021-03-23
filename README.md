@@ -42,7 +42,7 @@
 
 <p align="left">
   <img src="https://github.com/TatevKaren/recurrent-neural-network-stock-price-predicition-case-study/blob/main/methods/GRU_LSTM.png?raw=true"
-  width="400" height="350">
+  width="500" height="250">
 </p>
 <br>
 
