@@ -16,13 +16,13 @@
 ## Recurrent Neural Networks
 <p align="left">
   <img src="https://github.com/TatevKaren/recurrent-neural-network-stock-price-predicition-case-study/blob/main/methods/RNN's.png?raw=true"
-  width="400" height="350">
+  width="400" height="250">
 </p>
 <br>
 
 <p align="left">
   <img src="https://github.com/TatevKaren/recurrent-neural-network-stock-price-predicition-case-study/blob/main/methods/hiddenstate_road.png?raw=true"
-  width="400" height="350">
+  width="400" height="250">
 </p>
 <br>
 
@@ -30,7 +30,7 @@
 ## GRU and LSTM for Vanishing Gradient Problem in RNNs
 <p align="left">
   <img src="https://github.com/TatevKaren/recurrent-neural-network-stock-price-predicition-case-study/blob/main/methods/LSTM.png?raw=true"
-  width="400" height="350">
+  width="600" height="350">
 </p>
 <br>
 
