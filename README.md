@@ -28,6 +28,7 @@
 
 
 ## GRU and LSTM for Vanishing Gradient Problem in RNNs
+<br>
 <p align="left">
   <img src="https://github.com/TatevKaren/recurrent-neural-network-stock-price-predicition-case-study/blob/main/methods/LSTM.png?raw=true"
   width="450" height="300">
@@ -39,7 +40,7 @@
   width="400" height="350">
 </p>
 <br>
-
+<br>
 <p align="left">
   <img src="https://github.com/TatevKaren/recurrent-neural-network-stock-price-predicition-case-study/blob/main/methods/GRU_LSTM.png?raw=true"
   width="800" height="250">
@@ -47,6 +48,7 @@
 <br>
 
 ## Long Short-Term Memory (LSTMs)
+<br>
 <p align="left">
   <img src="https://github.com/TatevKaren/recurrent-neural-network-stock-price-predicition-case-study/blob/main/methods/LSTM code.png?raw=true"
   width="600" height="430">
@@ -54,11 +56,20 @@
 <br>
 
 ## Activation Functions (Sigmoid and Hyperbolic Tangent)
+<br>
 <p align="left">
   <img src="https://github.com/TatevKaren/recurrent-neural-network-stock-price-predicition-case-study/blob/main/methods/Hyperbolic_Tangent_Activation_Function.png?raw=true"
   width="270" height="250">
   <img src="https://github.com/TatevKaren/recurrent-neural-network-stock-price-predicition-case-study/blob/main/methods/Sigmoid_Activation_Function.png?raw=true"
   width="280" height="250">
+</p>
+<br>
+
+## Google Stock Price Prediction (Real Prices vs Predicted Prices)
+<br>
+<p align="left">
+  <img src="https://github.com/TatevKaren/recurrent-neural-network-stock-price-predicition-case-study/blob/main/methods/Prediction_Results.png?raw=true"
+  width="600" height="430">
 </p>
 <br>
 
