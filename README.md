@@ -18,7 +18,7 @@ This <a href = "https://github.com/TatevKaren/recurrent-neural-network-stock-pri
 
 # Data: Google Stock Price Data 
 We have used <a href = "https://github.com/TatevKaren/recurrent-neural-network-stock-price-predicition-case-study/tree/main/data">Google stock price data</a>, publicly available and downloaded from Yahoo Finance. For training the model we have used stock prices for the period of 2016-2020 and used it to predict stock prices for the January of 2021. 
-<br><br>
+<br>
 You can download the <a href = "https://github.com/TatevKaren/recurrent-neural-network-stock-price-predicition-case-study/blob/main/data/Google_Stock_Price_Trainset.csv">Training Data here</a><br>
 You can download the <a href = "https://github.com/TatevKaren/recurrent-neural-network-stock-price-predicition-case-study/blob/main/data/Google_Stock_Price_Testset.csv">Test Data here</a><br><br>
 Google Stock Price Development Graph (Training Data)
