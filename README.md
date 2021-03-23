@@ -1,4 +1,4 @@
-<p align="center" href = "">
+<p align="center" href = "https://github.com/TatevKaren/recurrent-neural-network-stock-price-predicition-case-study/blob/main/Recurrent_Neural_Networks_Case_Study.pdf">
   <img src="https://github.com/TatevKaren/recurrent-neural-network-stock-price-predicition-case-study/blob/main/Paper-Front-Page.png?raw=true"
   width="1000" height="450">
 </p>
