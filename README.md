@@ -41,11 +41,6 @@
 </p>
 <br>
 <br>
-<p align="left">
-  <img src="https://github.com/TatevKaren/recurrent-neural-network-stock-price-predicition-case-study/blob/main/methods/GRU_LSTM.png?raw=true"
-  width="800" height="250">
-</p>
-<br>
 
 ## Long Short-Term Memory (LSTMs)
 <br>
@@ -69,7 +64,7 @@
 <br>
 <p align="left">
   <img src="https://github.com/TatevKaren/recurrent-neural-network-stock-price-predicition-case-study/blob/main/Prediction_Results.png?raw=true"
-  width="600" height="430">
+  width="600" height="400">
 </p>
 <br>
 
