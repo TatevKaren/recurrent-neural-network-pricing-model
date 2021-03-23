@@ -2,6 +2,6 @@
 
 <p align="left" href = "">
   <img src="https://github.com/TatevKaren/recurrent-neural-network-stock-price-predicition-case-study/blob/main/Paper-Front-Page.png?raw=true"
-  width="500" height="200">
+  width="900" height="300">
 </p>
 <br>
