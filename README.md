@@ -30,7 +30,7 @@
 ## GRU and LSTM for Vanishing Gradient Problem in RNNs
 <p align="left">
   <img src="https://github.com/TatevKaren/recurrent-neural-network-stock-price-predicition-case-study/blob/main/methods/LSTM.png?raw=true"
-  width="500" height="300">
+  width="450" height="300">
 </p>
 <br>
 
