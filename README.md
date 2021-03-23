@@ -49,7 +49,7 @@
 ## Long Short-Term Memory (LSTMs)
 <p align="left">
   <img src="https://github.com/TatevKaren/recurrent-neural-network-stock-price-predicition-case-study/blob/main/methods/LSTM code.png?raw=true"
-  width="600" height="400">
+  width="600" height="430">
 </p>
 <br>
 
