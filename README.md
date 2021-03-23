@@ -16,13 +16,13 @@
 ## Recurrent Neural Networks
 <p align="left">
   <img src="https://github.com/TatevKaren/recurrent-neural-network-stock-price-predicition-case-study/blob/main/methods/RNN's.png?raw=true"
-  width="400" height="250">
+  width="400" height="200">
 </p>
 <br>
 
 <p align="left">
   <img src="https://github.com/TatevKaren/recurrent-neural-network-stock-price-predicition-case-study/blob/main/methods/hiddenstate_road.png?raw=true"
-  width="400" height="250">
+  width="400" height="200">
 </p>
 <br>
 
