@@ -2,25 +2,25 @@
   <img src="https://github.com/TatevKaren/recurrent-neural-network-stock-price-predicition-case-study/blob/main/Paper-Front-Page.png?raw=true"
   width="1000" height="450">
 </p>
+In this case stugy we use Deep Learning, Recurrent Neural Networks with Long Short-Term Memory(LSTM) layers to predict the price of the Google stock. LSTM is more sophisticated version of RNN which addresses the Vanishing Gradient Problem that RNNs often suffer from. This project is based on the past Google stock prices of the last 5 years corresponding the time period of 2016-2020 that is used to train the RNN model and then use it to predict the upward and downward trends in the stock price of Google on January 2021.
 <br>
 
 
-## Data: Google Stock Price Data 
-<br>
+# Data: Google Stock Price Data 
 We have used <a href = "https://github.com/TatevKaren/recurrent-neural-network-stock-price-predicition-case-study/tree/main/data">Google stock price data</a>, publicly available and downloaded from Yahoo Finance. For training the model we have used stock prices for the period of 2016-2020 and used it to predict stock prices for the January of 2021. 
 <br>
-### Google Stock Price Development Graph
+## Google Stock Price Development Graph
 <p align="left">
   <img src="https://github.com/TatevKaren/recurrent-neural-network-stock-price-predicition-case-study/blob/main/Google Stock Price Development.png?raw=true"
   width="600" height="300">
 </p>
 <br>
 <br>
-### Financial Data Preprocessing
+## Financial Data Preprocessing
 In order to prepare the data to train and test RNN model we have performed certain data preprocessing steps using Tensorflow, Keras, Pandas and Scikit-Learn libraries. Detailed info about data preprocessing can be found in <a href = "https://github.com/TatevKaren/recurrent-neural-network-stock-price-predicition-case-study/blob/main/Recurrent_Neural_Networks_Case_Study.pdf"> Case Study Paper</a>
 <p align="left">
   <img src="https://github.com/TatevKaren/recurrent-neural-network-stock-price-predicition-case-study/blob/main/data/Data transformation.png?raw=true"
-  width="200" height="200">
+  width="300" height="200">
 </p>
 <br>
 
