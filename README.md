@@ -68,7 +68,7 @@
 ## Google Stock Price Prediction (Real Prices vs Predicted Prices)
 <br>
 <p align="left">
-  <img src="https://github.com/TatevKaren/recurrent-neural-network-stock-price-predicition-case-study/blob/main/methods/Prediction_Results.png?raw=true"
+  <img src="https://github.com/TatevKaren/recurrent-neural-network-stock-price-predicition-case-study/blob/main/Prediction_Results.png?raw=true"
   width="600" height="430">
 </p>
 <br>
