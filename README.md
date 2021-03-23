@@ -1,1 +1,1 @@
-# recurrent-neural-network-stock_price_predicition_-case-study
+# Recurrent Neural Network Stock Price Predicition Case Study
