@@ -15,7 +15,7 @@
 
 <p align="left">
   <img src="https://github.com/TatevKaren/recurrent-neural-network-stock-price-predicition-case-study/blob/main/methods/GRU.png?raw=true"
-  width="150" height="300">
+  width="400" height="300">
 </p>
 <br>
 
