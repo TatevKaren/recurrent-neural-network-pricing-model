@@ -22,7 +22,7 @@
 
 <p align="left">
   <img src="https://github.com/TatevKaren/recurrent-neural-network-stock-price-predicition-case-study/blob/main/methods/hiddenstate_road.png?raw=true"
-  width="400" height="200">
+  width="300" height="200">
 </p>
 <br>
 
@@ -30,7 +30,7 @@
 ## GRU and LSTM for Vanishing Gradient Problem in RNNs
 <p align="left">
   <img src="https://github.com/TatevKaren/recurrent-neural-network-stock-price-predicition-case-study/blob/main/methods/LSTM.png?raw=true"
-  width="600" height="350">
+  width="500" height="300">
 </p>
 <br>
 
