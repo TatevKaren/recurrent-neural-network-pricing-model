@@ -13,5 +13,24 @@
 </p>
 <br>
 
+<p align="left">
+  <img src="https://github.com/TatevKaren/recurrent-neural-network-stock-price-predicition-case-study/blob/main/data/GRU.png.png?raw=true"
+  width="800" height="350">
+</p>
+<br>
+
+
+GRU_LSTM.png
+GRU LSTM layers
+Hyperbolic_Tangent_Activation_Function.png
+Activation Functions (Sigmoid and Tanh)
+LSTM code.png
+LSTM.png
+RNN's.png
+Sigmoid_Activation_Function.png
+Activation Functions (Sigmoid and Tanh)
+hiddenstate_road.png
+
+
 
 
