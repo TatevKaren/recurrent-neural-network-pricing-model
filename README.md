@@ -56,9 +56,9 @@
 ## Activation Functions (Sigmoid and Hyperbolic Tangent)
 <p align="left">
   <img src="https://github.com/TatevKaren/recurrent-neural-network-stock-price-predicition-case-study/blob/main/methods/Hyperbolic_Tangent_Activation_Function.png?raw=true"
-  width="400" height="350">
+  width="250" height="250">
   <img src="https://github.com/TatevKaren/recurrent-neural-network-stock-price-predicition-case-study/blob/main/methods/Sigmoid_Activation_Function.png?raw=true"
-  width="400" height="350">
+  width="250" height="250">
 </p>
 <br>
 
