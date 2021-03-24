@@ -15,7 +15,7 @@ This <a href = "https://github.com/TatevKaren/recurrent-neural-network-stock-pri
   - Training/Testing/Evaluation
   - Results
 <br>
-
+<br>
 # Data
 We have used <a href = "https://github.com/TatevKaren/recurrent-neural-network-stock-price-predicition-case-study/tree/main/data">Google stock price data</a>, publicly available and downloaded from Yahoo Finance. For training the model we have used stock prices for the period of 2016-2020 and used it to predict stock prices for the January of 2021. 
 <br>
@@ -46,7 +46,7 @@ What RNN does is that it translates the provided inputs to a machine readable ve
   width="350" height="200">
 </p>
 <br>
-
+<br>
 ## Long Short-Term Memory (LSTMs)
 In the very initial epoch of RNN, the weights are randomly chosen values and in case this chosen values are very small, multiplying them with recurrent weight many times, the gradient becomes less and less and at some point the gradient will vanish because the lower the gradient is, the harder is to update weight which means the slower will be the process. Moreover, there is a domino effect and one improperly calculated weight effects the calculation of the remaining weights and makes them inaccurate as well, given that they all are related. Hence, the entire training of the network will be inaccurate and some part of an important information will be lost in the process and will not be kept in the short-term memory.<br>
 LSTMs have the same information flow as usual RNNs with the sequential information transition where data propagates forward through sequential steps. The difference between the usual RNN and LSTM is the set of operations that are performed on the passed information and the input value in that specific step. These set of various operations gives the LSTM the opportunity to keep or forget parts of the information that flows into that particular step. The information in LSTMs flows through its gates which are LSTMs’ main concepts; forget gate, input gate, cell state, and output gate. All these processes are described in <a href = "https://github.com/TatevKaren/recurrent-neural-network-stock-price-predicition-case-study/blob/main/Recurrent_Neural_Networks_Case_Study.pdf"> Case Study Paper</a>
@@ -63,7 +63,7 @@ LSTMs have the same information flow as usual RNNs with the sequential informati
   width="600" height="430">
 </p>
 <br>
-
+<br>
 ## GRU
 GRU is another method that solves Vanishing Gradient Problem for RNNs. The GRUs are the newer generation of RNNs and very similar to LSTMs. One of the biggest differences between the GRUs and LSTMs is that GRUs have no cell state and use the hidden state to transfer information. They have only two gates, a reset gate and update gate.
 <p align="left">
@@ -83,7 +83,7 @@ The Hyperbolic Tangent Activation Function (Tanh function) is used because it is
   width="280" height="250">
 </p>
 <br>
-
+<br>
 ## Google Stock Price Prediction (Real Prices vs Predicted Prices)
 Comparing the real Google stock values and predicted Google stock values that are generated using RNN model, for the test period, the first month of 2021. RNN based on 5 LSTMs was able to properly predict all upward and downward trends as we see that the red line corresponding to the predicted stock prices follows the same pattern as the blue line which corresponds the real stock prices.
 <br>
@@ -92,7 +92,7 @@ Comparing the real Google stock values and predicted Google stock values that ar
   width="600" height="400">
 </p>
 <br>
-
+<br>
 
 
 
