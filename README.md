@@ -47,31 +47,30 @@ What RNN does is that it translates the provided inputs to a machine readable ve
 </p>
 <br>
 
-
-## GRU and LSTM for Vanishing Gradient Problem in RNNs
+## Long Short-Term Memory (LSTMs)
+In the very initial epoch of RNN, the weights are randomly chosen values and in case this chosen values are very small, multiplying them with recurrent weight many times, the gradient becomes less and less and at some point the gradient will vanish because the lower the gradient is, the harder is to update weight which means the slower will be the process. Moreover, there is a domino effect and one improperly calculated weight effects the calculation of the remaining weights and makes them inaccurate as well, given that they all are related. Hence, the entire training of the network will be inaccurate and some part of an important information will be lost in the process and will not be kept in the short-term memory.<br>
+LSTMs have the same information flow as usual RNNs with the sequential information transition where data propagates forward through sequential steps. The difference between the usual RNN and LSTM is the set of operations that are performed on the passed information and the input value in that specific step. These set of various operations gives the LSTM the opportunity to keep or forget parts of the information that flows into that particular step. The information in LSTMs flows through its gates which are LSTMs’ main concepts; forget gate, input gate, cell state, and output gate. All these processes are described in <a href = "https://github.com/TatevKaren/recurrent-neural-network-stock-price-predicition-case-study/blob/main/Recurrent_Neural_Networks_Case_Study.pdf"> Case Study Paper</a>
 <br>
 <p align="left">
   <img src="https://github.com/TatevKaren/recurrent-neural-network-stock-price-predicition-case-study/blob/main/methods/LSTM.png?raw=true"
   width="450" height="300">
 </p>
 <br>
-GRU is another method that solves Vanishing Gradient Problem for RNNs. The GRUs are the newer generation of RNNs and very similar to LSTMs. One of the biggest differences between the GRUs and LSTMs is that GRUs have no cell state and use the hidden state to transfer information. They have only two gates, a reset gate and update gate.
-<p align="left">
-  <img src="https://github.com/TatevKaren/recurrent-neural-network-stock-price-predicition-case-study/blob/main/methods/GRU.png?raw=true"
-  width="400" height="350">
-</p>
-<br>
-<br>
-
-## Long Short-Term Memory (LSTMs)
-In the very initial epoch of RNN, the weights are randomly chosen values and in case this chosen values are very small, multiplying them with recurrent weight many times, the gradient becomes less and less and at some point the gradient will vanish because the lower the gradient is, the harder is to update weight which means the slower will be the process. Moreover, there is a domino effect and one improperly calculated weight effects the calculation of the remaining weights and makes them inaccurate as well, given that they all are related. Hence, the entire training of the network will be inaccurate and some part of an important information will be lost in the process and will not be kept in the short-term memory.<br>
-LSTMs have the same information flow as usual RNNs with the sequential information transition where data propagates forward through sequential steps. The difference between the usual RNN and LSTM is the set of operations that are performed on the passed information and the input value in that specific step. These set of various operations gives the LSTM the opportunity to keep or forget parts of the information that flows into that particular step. The information in LSTMs flows through its gates which are LSTMs’ main concepts; forget gate, input gate, cell state, and output gate. All these processes are described in <a href = "https://github.com/TatevKaren/recurrent-neural-network-stock-price-predicition-case-study/blob/main/Recurrent_Neural_Networks_Case_Study.pdf"> Case Study Paper</a>
 <p align="left">.
 <br>
 <p align="left">
   <img src="https://github.com/TatevKaren/recurrent-neural-network-stock-price-predicition-case-study/blob/main/methods/LSTM code.png?raw=true"
   width="600" height="430">
 </p>
+<br>
+
+## GRU
+GRU is another method that solves Vanishing Gradient Problem for RNNs. The GRUs are the newer generation of RNNs and very similar to LSTMs. One of the biggest differences between the GRUs and LSTMs is that GRUs have no cell state and use the hidden state to transfer information. They have only two gates, a reset gate and update gate.
+<p align="left">
+  <img src="https://github.com/TatevKaren/recurrent-neural-network-stock-price-predicition-case-study/blob/main/methods/GRU.png?raw=true"
+  width="400" height="350">
+</p>
+<br>
 <br>
 
 ## Activation Functions (Sigmoid and Hyperbolic Tangent)
