@@ -55,7 +55,7 @@ What RNN does is that it translates the provided inputs to a machine readable ve
   width="450" height="300">
 </p>
 <br>
-
+GRU is another method that solves Vanishing Gradient Problem for RNNs. The GRUs are the newer generation of RNNs and very similar to LSTMs. One of the biggest differences between the GRUs and LSTMs is that GRUs have no cell state and use the hidden state to transfer information. They have only two gates, a reset gate and update gate.
 <p align="left">
   <img src="https://github.com/TatevKaren/recurrent-neural-network-stock-price-predicition-case-study/blob/main/methods/GRU.png?raw=true"
   width="400" height="350">
