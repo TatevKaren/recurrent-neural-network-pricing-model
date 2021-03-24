@@ -17,6 +17,18 @@ This <a href = "https://github.com/TatevKaren/recurrent-neural-network-stock-pri
 <br>
 <br>
 
+## Google Stock Price Prediction (Real Prices vs Predicted Prices)
+
+Comparing the real Google stock values and predicted Google stock values that are generated using RNN model, for the test period, the first month of 2021. RNN based on 5 LSTMs was able to properly predict all upward and downward trends as we see that the red line corresponding to the predicted stock prices follows the same pattern as the blue line which corresponds the real stock prices. 
+<br>
+<p align="left">
+  <img src="https://github.com/TatevKaren/recurrent-neural-network-stock-price-predicition-case-study/blob/main/Prediction_Results.png?raw=true"
+  width="600" height="400">
+</p>
+<br>
+<br>
+
+
 # Data
 We have used <a href = "https://github.com/TatevKaren/recurrent-neural-network-stock-price-predicition-case-study/tree/main/data">Google stock price data</a>, publicly available and downloaded from Yahoo Finance. For training the model we have used stock prices for the period of 2016-2020 and used it to predict stock prices for the January of 2021. 
 <br>
@@ -94,16 +106,6 @@ The Hyperbolic Tangent Activation Function (Tanh function) is used because it is
 <br>
 <br>
 
-## Google Stock Price Prediction (Real Prices vs Predicted Prices)
-
-Comparing the real Google stock values and predicted Google stock values that are generated using RNN model, for the test period, the first month of 2021. RNN based on 5 LSTMs was able to properly predict all upward and downward trends as we see that the red line corresponding to the predicted stock prices follows the same pattern as the blue line which corresponds the real stock prices.
-<br>
-<p align="left">
-  <img src="https://github.com/TatevKaren/recurrent-neural-network-stock-price-predicition-case-study/blob/main/Prediction_Results.png?raw=true"
-  width="600" height="400">
-</p>
-<br>
-<br>
 
 
 
