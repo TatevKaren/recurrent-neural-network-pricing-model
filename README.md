@@ -1,4 +1,5 @@
-# Recurrent Neural Network Pricing Model (Bitcoin and Google stock price prediction)
+# Recurrent Neural Network Pricing Model 
+## Bitcoin and Google stock price prediction
 In this case study we use Deep Learning, Recurrent Neural Networks with Long Short-Term Memory(LSTM) layers to predict the price of the Google stock. LSTM is more sophisticated version of RNN which addresses the Vanishing Gradient Problem that RNNs often suffer from. This project is based on the past Google stock prices of the last 5 years corresponding the time period of 2016-2020 that is used to train the RNN model and then use it to predict the upward and downward trends in the stock price of Google on January 2021.
 <br>
 This <a href = "https://github.com/TatevKaren/recurrent-neural-network-pricing-model/blob/main/Recurrent_Neural_Networks_Case_Study.pdf"> Case Study Paper</a> and <a href = "https://github.com/TatevKaren/recurrent-neural-network-pricing-model/blob/main/Recurrent_Neural_Network_Case_Study.py">Python Code</a> include:<br><br>
