@@ -80,16 +80,6 @@ LSTMs have the same information flow as usual RNNs with the sequential informati
 <br>
 <br>
 
-## GRU
-
-GRU is another method that solves Vanishing Gradient Problem for RNNs. The GRUs are the newer generation of RNNs and very similar to LSTMs. One of the biggest differences between the GRUs and LSTMs is that GRUs have no cell state and use the hidden state to transfer information. They have only two gates, a reset gate and update gate.
-<p align="left">
-  <img src="https://github.com/TatevKaren/recurrent-neural-network-pricing-model/blob/main/methods/GRU.png?raw=true"
-  width="400" height="350">
-</p>
-<br>
-<br>
-
 ## Activation Functions (Sigmoid and Hyperbolic Tangent)
 
 The Hyperbolic Tangent Activation Function (Tanh function) is used because it is one of the activation functions that transforms vectors in such a way that all the elements of this vector fall in the range of [-1,1]. Using this in LSTM we avoid having too large or too small values that are transmitted through the system and cause problems. The Sigmoid function transforms vectors in such a way that all the elements of this vector fall in the range of [0,1] which helps to regulate the network by updating or forgetting data because any number getting multiplied by 0 is 0, causing values to disappear or to be “forgotten” and any number multiplied by 1 is the same value therefore that value stays the same or is “kept”. More about this in <a href = "https://github.com/TatevKaren/recurrent-neural-network-pricing-model/blob/main/Recurrent_Neural_Networks_Case_Study.pdf"> Case Study Paper</a>
@@ -106,9 +96,11 @@ The Hyperbolic Tangent Activation Function (Tanh function) is used because it is
 
 # Application on Bitcoin
 The same method can be applied on different financial instruments such as Bitcoin. Check out an application of this on Bitcoin in my Medium Article called <a href = "https://tatev-aslanyan.medium.com/predicting-bitcoins-price-with-recurrent-neural-networks-a27b4d2d839"> Predicting Bitcoin’s Price With Recurrent Neural Networks </a>
+<br>
 <p align="left">
   <img src="https://github.com/TatevKaren/recurrent-neural-network-pricing-model/blob/main/Bitcoin_Price.png?raw=true"
   width="600" height="380">
 </p>
-
+<br>
+<br>
 
