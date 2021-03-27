@@ -28,6 +28,7 @@ What RNN does is that it translates the provided inputs to a machine readable ve
   width="600" height="230">
 </p>
 <br>
+(Source: https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21)
 
 ## Long Short-Term Memory (LSTMs)
 
