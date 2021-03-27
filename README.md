@@ -25,7 +25,7 @@ What RNN does is that it translates the provided inputs to a machine readable ve
 <br>
 <p align="left">
  <img src="https://miro.medium.com/max/1120/1*WMnFSJHzOloFlJHU6fVN-g.gif?raw=true"
-  width="600" height="200">
+  width="600" height="230">
 </p>
 <br>
 
