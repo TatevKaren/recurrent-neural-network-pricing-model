@@ -59,6 +59,7 @@ The Hyperbolic Tangent Activation Function (Tanh function) is used because it is
   <img src="https://github.com/TatevKaren/recurrent-neural-network-pricing-model/blob/main/methods/Sigmoid_Activation_Function.png?raw=true"
   width="280" height="250">
 </p>
+<a href = "https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21"> Image Source </a>
 <br>
 <br>
 
