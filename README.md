@@ -19,9 +19,9 @@ This <a href = "https://github.com/TatevKaren/recurrent-neural-network-pricing-m
 
 What RNN does is that it translates the provided inputs to a machine readable vectors. Then the system processes each of this sequence of vectors one by one, moving from very first vector to the next one in a sequential order. While processing, the system passes the information through the hidden state (memory) to the next step of the sequence. Once the hidden state has collected all the existing information in the system until time period t, it is ready to move towards the next step and in this newer step the hidden step is classified as previous hidden state defined. Find more detailed description about eache of these processes in the <a href = "https://github.com/TatevKaren/recurrent-neural-network-stock-price-predicition-case-study/blob/main/Recurrent_Neural_Networks_Case_Study.pdf"> Case Study Paper</a>
 <p align="left">
-  <img src="https://github.com/TatevKaren/recurrent-neural-network-pricing-model/blob/main/methods/RNN's.png?raw=true"
+  <img src="https://miro.medium.com/max/1120/1*o-Cq5U8-tfa1_ve2Pf3nfg.gif?raw=true"
   width="400" height="200">
-  <img src="https://github.com/TatevKaren/recurrent-neural-network-pricing-model/blob/main/methods/hiddenstate_road.png?raw=true"
+  <img src="https://miro.medium.com/max/1120/1*WMnFSJHzOloFlJHU6fVN-g.gif?raw=true"
   width="350" height="200">
 </p>
 <br>
