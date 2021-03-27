@@ -108,7 +108,7 @@ The Hyperbolic Tangent Activation Function (Tanh function) is used because it is
 The same method can be applied on different financial instruments such as Bitcoin. Check out an application of this on Bitcoin in my Medium Article called <a href = "https://tatev-aslanyan.medium.com/predicting-bitcoins-price-with-recurrent-neural-networks-a27b4d2d839"> Predicting Bitcoin’s Price With Recurrent Neural Networks </a>
 <p align="left">
   <img src="https://github.com/TatevKaren/recurrent-neural-network-pricing-model/blob/main/Bitcoin_Price.png?raw=true"
-  width="800" height="350">
+  width="600" height="380">
 </p>
 
 
