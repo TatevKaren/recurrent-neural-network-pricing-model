@@ -43,7 +43,7 @@ LSTMs have the same information flow as usual RNNs with the sequential informati
 <br>
 <p align="left">
   <img src="https://github.com/TatevKaren/recurrent-neural-network-pricing-model/blob/main/methods/LSTM code.png?raw=true"
-  width="600" height="430">
+  width="700" height="330">
 </p>
 <br>
 <br>
