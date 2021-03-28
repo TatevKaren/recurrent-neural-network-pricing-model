@@ -118,3 +118,13 @@ In order to prepare the data to train and test RNN model we have performed certa
 <br>
 <br>
 
+## Prediction Results
+
+Comparing the real Bitcoin price values and predicted Bitcoin price values that are generated using RNN model, for the test period, the first 3 months of 2021. RNN based on 5 LSTMs was able to properly predict all upward and downward trends as we see that the red line corresponding to the predicted stock prices follows the same pattern as the blue line which corresponds the real stock prices. 
+<br>
+<p align="left">
+  <img src="https://github.com/TatevKaren/recurrent-neural-network-pricing-model/blob/main/Bitcoin Price Prediction.png?raw=true"
+  width="600" height="400">
+</p>
+<br>
+<br>
