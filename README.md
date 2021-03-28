@@ -76,7 +76,7 @@ Google Stock Price Development Graph (Training Data)
 <br>
 <br>
 
-## Data Preprocessing
+## Google Data Preprocessing
 
 In order to prepare the data to train and test RNN model we have performed certain data preprocessing steps using Tensorflow, Keras, Pandas and Scikit-Learn libraries. Detailed info about data preprocessing can be found in <a href = "https://github.com/TatevKaren/recurrent-neural-network-pricing-model/blob/main/Recurrent_Neural_Networks_Case_Study.pdf"> Case Study Paper</a>
 <p align="left">
@@ -104,6 +104,14 @@ The same method can be applied on different financial instruments such as Bitcoi
 <p align="left">
   <img src="https://github.com/TatevKaren/recurrent-neural-network-pricing-model/blob/main/Bitcoin_Price.png?raw=true"
   width="600" height="380">
+</p>
+<br>
+<br>
+## Bitcoin Data Preprocessing
+In order to prepare the data to train and test RNN model we have performed certain data preprocessing steps using Tensorflow, Keras, Pandas and Scikit-Learn libraries. Detailed info about data preprocessing can be found in <a href = "https://tatev-aslanyan.medium.com/predicting-bitcoins-price-with-recurrent-neural-networks-a27b4d2d839"> Case Study Paper</a>
+<p align="left">
+  <img src="https://github.com/TatevKaren/recurrent-neural-network-pricing-model/blob/main/bitcoin_data/Bitcoin_data_transformation.png?raw=true"
+  width="450" height="300">
 </p>
 <br>
 <br>
